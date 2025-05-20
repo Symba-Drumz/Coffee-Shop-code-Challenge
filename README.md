@@ -46,4 +46,4 @@ python debug.py
 
 ## Author
 
-Created as part of a coding assessment.
+Created as part of a code challenge By Alfa Zach Mmosi aka Symba-Drumz.
