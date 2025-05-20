@@ -1,18 +1,21 @@
 # Coffee Shop Domain Model
 
 ## Overview
+
 This project models a Coffee Shop domain using object-oriented programming principles in Python. It includes three main entities: `Customer`, `Coffee`, and `Order`, with relationships and methods to manage orders and customers.
 
 ## Setup and Installation
 
 1. Create a virtual environment and install dependencies using pipenv:
-   ```bash
+
+   ```bash  
    pipenv install
    pipenv shell
    pipenv install pytest
    ```
 
 2. Run tests with pytest:
+
    ```bash
    pytest
    ```
@@ -28,6 +31,7 @@ This project models a Coffee Shop domain using object-oriented programming princ
 ## Usage
 
 Run `debug.py` to see example usage and relationships:
+
 ```bash
 python debug.py
 ```
